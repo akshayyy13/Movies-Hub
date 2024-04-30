@@ -1,7 +1,7 @@
 1. Clone the repository to your local machine.
 
 ```sh
-   git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
+   git clone https://github.com/akshayyy13/Movies-Hub.git
 ```
 
 2. Install the required packages.
